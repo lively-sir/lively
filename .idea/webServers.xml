@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="a7bd251b-e362-4003-9eb0-171ced4e6335" name="shop.400r.cn" url="http://140.143.139.126/">
+        <fileTransfer host="140.143.139.126" port="27277" rootFolder="/www/wwwroot/shop.400r.cn/laravel" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="27277" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
